@@ -1,7 +1,6 @@
 <h2>(Namaste)🙏🏻, I'm León Barboza Elmer Joselito ! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
-<p><em>Software Engineer at <a href="http://www.cleartax.in">ClearTax</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-</em></p>
+
 
 
 ![GitHub followers](https://img.shields.io/github/followers/anmol098?label=Follow&style=social)
