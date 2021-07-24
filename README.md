@@ -13,7 +13,7 @@ const anmol = {
     code: ["Javascript", "Typescript", "Python"],
     askMeAbout: ["web dev", "tech", "app dev", "photography"],
     technologies: {
-        mobileApp: ["Angular"],
+        mobileApp: ["Ionic"],
         frontEnd: {
             js: ["Angular", "React" ,"next js"],
             css: ["bulma", "chakra", "bootstrap"]
