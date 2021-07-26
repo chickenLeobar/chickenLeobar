@@ -23,7 +23,7 @@
 
 
 ```javascript
-const anmol = {
+const leobar37 = {
     pronouns: "He" | "Him",
     code: ["Javascript", "Typescript", "Python"],
     askMeAbout: ["web dev", "tech", "app dev", "photography"],
