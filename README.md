@@ -1,4 +1,5 @@
-<h2>(Namaste)🙏🏻, I'm León Barboza Elmer Joselito ! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
+<h2 align="center" >(Namaste)🙏🏻, I'm León Barboza Elmer Joselito ! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
+<br/>
 <p align="center">
   <img src="https://github.com/demartini/demartini/blob/master/code.gif">
 </p>
@@ -50,15 +51,3 @@ const leobar37 = {
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
 
 
-
-📊 **This week I spent my time on** 
-
-<!--START_SECTION:waka-->
-```text
-Other        64 hrs 10 mins  ███████████████████░░░░░░   75.49 % 
-TypeScript   19 hrs 57 mins  ██████░░░░░░░░░░░░░░░░░░░   23.47 % 
-Python       21 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 % 
-JSON         19 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 % 
-Markdown     3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
-```
-<!--END_SECTION:waka-->
