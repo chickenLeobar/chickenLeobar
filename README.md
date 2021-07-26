@@ -1,11 +1,26 @@
 <h2>(Namaste)🙏🏻, I'm León Barboza Elmer Joselito ! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
-<img align='right' src="https://camo.githubusercontent.com/2309797487e5e969659a3b545c96151807b04120a9cc2985f632ec94ba00c9f3/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966" width="230">
+<p align="center">
+  <img src="https://github.com/demartini/demartini/blob/master/code.gif">
+</p>
 
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/elmer-joselito-leon-barboza-186729210/" target="_blank">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=071A2C" alt="LinkedIn"/>
+  </a>
+  <a href="https://instagram.com/leobar_37" target="_blank">
+    <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=071A2C" alt="Instagram"/>
+  </a>
+  <a href="https://medium.com/@leobar37" target="_blank">
+    <img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white&color=071A2C" alt="Medium"/>
+  </a>
+</p>
 
-![GitHub followers](https://img.shields.io/github/followers/chickenLeobar?label=Follow&style=social)
+
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+![GitHub followers](https://img.shields.io/github/followers/chickenLeobar?label=Follow&style=social)
+
 
 ```javascript
 const anmol = {
@@ -19,7 +34,7 @@ const anmol = {
             css: ["bulma", "chakra", "bootstrap"]
         },
         backEnd: {
-            js: ["node", "express", "nest js" ,"graphql" ,"TypeGraphql" ,"TypeOrm" , ""],
+            js: ["node", "express", "nest js" ,"graphql" ,"TypeGraphql" ,"TypeOrm"],
             python: ["django"]
         },
         devOps: ["Docker🐳", "Nginx"],
