@@ -15,6 +15,10 @@
   <a href="https://medium.com/@leobar37" target="_blank">
     <img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white&color=071A2C" alt="Medium"/>
   </a>
+  
+    <a href="https://dev.to/leobar37" target="_blank">
+    <img src="https://img.shields.io/badge/blog-%2312100E.svg?&style=for-the-badge&logo=dev.to&logoColor=white&color=071A2" alt="Devto"/>
+  </a>
 </p>
 
 
